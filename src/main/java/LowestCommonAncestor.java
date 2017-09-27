@@ -1,6 +1,12 @@
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+The tree consist of two child nodes per parent.[Binary tree]
+
+This code takes as input two Node values and prints the lowest common ancestor of the nodes.
+*/
+
 public class LowestCommonAncestor {
 
 private static List<Integer> path1; 
