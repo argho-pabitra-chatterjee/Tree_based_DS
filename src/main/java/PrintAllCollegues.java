@@ -2,6 +2,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
+/*
+The tree consist of more multi child nodes per parent.
+It resembles reporting structure of any Organization with CEO at the root and VP,AVP and managers following them.
+
+This code takes as input one Employee and prints all Collegues of the Employee at same level
+*/
 public class PrintAllCollegues {
 
 	
