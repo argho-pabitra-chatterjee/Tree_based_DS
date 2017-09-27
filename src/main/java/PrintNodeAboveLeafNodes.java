@@ -3,6 +3,15 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+/*
+The tree consist of two child nodes per parent.[Binary tree]
+
+This code takes as input an integer value 'k' and prints all the nodes which are at a distance of 'k' nodes in the hierarchy
+from each of the leaf node of the tree
+*/
+
+
+*/
 public class PrintNodeAboveLeafNodes {
 	
 	private static Set<Integer> answer = new HashSet<>();
